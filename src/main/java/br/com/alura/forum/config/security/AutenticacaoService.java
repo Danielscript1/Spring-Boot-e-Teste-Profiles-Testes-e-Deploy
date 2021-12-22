@@ -1,5 +1,6 @@
 package br.com.alura.forum.config.security;
 
+
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
